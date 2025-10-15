@@ -1,6 +1,6 @@
 <div align="center">
 
-# ECR: Easy Calibrated Reconstruction (ECR)
+# ECR: Easy Calibrated Reconstruction
 
 <h3>
   <a href="https://www.cisdeli.dev/">Pedro Cisdeli</a>

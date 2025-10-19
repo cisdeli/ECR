@@ -10,3 +10,6 @@
 ## Work in Progress
 
 Come back later for updates!
+
+## to-Do 
+- [ ] Add ChArUco board support
